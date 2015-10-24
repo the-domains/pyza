@@ -1,6 +1,6 @@
 name: PYZA
 favicon: null
-layout_spectrum: 0.1411678115837276
+layout_spectrum: 0.65452
 typography_spectrum: 0.6081909697968513
 title: PYZAA
 cta:
@@ -24,6 +24,6 @@ color:
     - '#240000'
   brandStrength: 0.6216582148335874
   lightness: 0.6745200061704963
-  saturation: 0.6635092701762915
+  saturation: 0.625
   rhythmicContrast: 0.5068704870063812
 purpose: []
